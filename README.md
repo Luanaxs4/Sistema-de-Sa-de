@@ -1,4 +1,4 @@
-# Sistema-de-Sa-de
+# Sistema-de-Saúde
 # 🩺 Sistema de Triagem de Saúde Simplificado
 
 Este projeto foi desenvolvido em **Python** com o objetivo de aplicar **estruturas condicionais e funções** na criação de um sistema de triagem de saúde preliminar. O programa coleta informações do usuário e realiza uma análise de sintomas como **febre, dor de cabeça e tosse**, fornecendo um **diagnóstico individual** e um **diagnóstico combinado** com base nas respostas.
