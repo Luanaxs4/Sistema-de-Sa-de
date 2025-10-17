@@ -1,4 +1,3 @@
-#Luana de Paiva Brito | Louisy Dalchiavon Tomazi | Yulianny Alejandra Perdomo Briceno
 #Funções =============================================================================
 def entrada():
     nome= input("Nome:")
@@ -99,6 +98,7 @@ print('\nPaciente:',nome,idade,'anos')
 print(diag_individual(tipo_febre,tipo_tosse,tipo_dor))
 print(relatorio_combinado(tipo_febre,tipo_tosse,tipo_dor))
 print('===Isso se trata de um sistema! PROCURE UM PROFISSIONAL DA ÁREA===')
+
 
 
 
