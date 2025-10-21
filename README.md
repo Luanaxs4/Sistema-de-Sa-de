@@ -18,3 +18,4 @@ Para o diagnóstico combinado, foram implementadas **cinco combinações de sint
 
 * **Linguagem:** Python
 * **Conceitos aplicados:** variáveis, estruturas condicionais e funções
+
